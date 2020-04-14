@@ -14,5 +14,5 @@ Select appropriate version for your Operating System<br>
 <b>Select Community Version which is free and Open-Source</b>
 
 <b>After IDE Installation:</b><br>
-1.Open Pycharm and set it up.<br>
-2.Create new Project
+1. Open Pycharm and set it up.<br>
+2. Create new Project

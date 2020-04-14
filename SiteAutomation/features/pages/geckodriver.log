@@ -1,0 +1,505 @@
+1586328051674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofileozxJHU"
+1586328052477	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586328053295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586328053295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586328053296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586328053296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586328056722	Marionette	INFO	Listening on port 23560
+1586328056982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586328066865	Marionette	INFO	Stopped listening on port 23560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586328120066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofileOq0yDM"
+1586328120949	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586328122191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586328122192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586328122192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586328122192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586328125187	Marionette	INFO	Listening on port 23644
+1586328125378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586328132415	Marionette	INFO	Stopped listening on port 23644
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586328159363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofilejE4Hgp"
+1586328160020	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586328161058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586328161058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586328161059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586328161059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586328164067	Marionette	INFO	Listening on port 23704
+1586328164160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586328183884	Marionette	INFO	Stopped listening on port 23704
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586328260415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofileDpN1Wj"
+1586328261280	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586328262700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586328262700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586328262700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586328262700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586328265886	Marionette	INFO	Listening on port 23802
+1586328266245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui/js/touch-keyboard-navigation.js?ver=1.1, line 278: TypeError: event.target.matches is not a function
+1586328372475	Marionette	INFO	Stopped listening on port 23802
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586328368143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586328368143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586328368143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586328368143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586328371188	Marionette	INFO	Listening on port 23927
+1586328371692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586328388396	Marionette	INFO	Stopped listening on port 23927
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586328421992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofileePkSKi"
+1586328422657	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586328423744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586328423744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586328423745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586328423745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586328426646	Marionette	INFO	Listening on port 24029
+1586328426798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/wp-includes/js/wp-emoji-release.min.js?ver=5.3.2, line 4: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui-child/js/jquery-1.11.3.js.download, line 6150: TypeError: elem.ownerDocument.defaultView is null
+1586328483481	Marionette	INFO	Stopped listening on port 24029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586328618146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofileqPljWW"
+1586328619286	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586328620952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586328620953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586328620953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586328620954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586328624149	Marionette	INFO	Listening on port 24193
+1586328624495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586328632279	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1586328632572	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586328632574	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586328632890	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586328642797	Marionette	INFO	Stopped listening on port 24193
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586329138235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofilew48sby"
+1586329139120	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586329140151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586329140151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586329140151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586329140151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586329143567	Marionette	INFO	Listening on port 24676
+1586329144028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/sortable/, line 388: TypeError: $(...).sortable is not a function
+1586329167755	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1586329168036	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586329168038	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586329168325	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586329185181	Marionette	INFO	Stopped listening on port 24676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586329192377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofileukAHtO"
+1586329193118	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586329193738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586329193738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586329193738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586329193738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586329196768	Marionette	INFO	Listening on port 24759
+1586329197177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586329221476	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1586329221771	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586329221774	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586329222087	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+1586329228206	Marionette	INFO	Stopped listening on port 24759
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586342797925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofile6zmwT1"
+1586342798830	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586342799743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586342799743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586342799744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586342799744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586342802619	Marionette	INFO	Listening on port 33507
+1586342802745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 426: SyntaxError: missing { before function body
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui/js/touch-keyboard-navigation.js?ver=1.1, line 278: TypeError: event.target.matches is not a function
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+1586342816588	Marionette	INFO	Stopped listening on port 33507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586342860085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofileF8sfkD"
+1586342860649	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586342862004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586342862004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586342862004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586342862004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586342864810	Marionette	INFO	Listening on port 33565
+1586342864918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 426: SyntaxError: missing { before function body
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui/js/touch-keyboard-navigation.js?ver=1.1, line 278: TypeError: event.target.matches is not a function
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+1586342878229	Marionette	INFO	Stopped listening on port 33565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586343080309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofile5wsGRN"
+1586343081060	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586343082092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586343082092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586343082092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586343082093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586343084800	Marionette	INFO	Listening on port 33658
+1586343085137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 426: SyntaxError: missing { before function body
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui/js/touch-keyboard-navigation.js?ver=1.1, line 278: TypeError: event.target.matches is not a function
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 460: NotFoundError: Node was not found
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+1586343110021	Marionette	INFO	Stopped listening on port 33658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586343113286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofile6QkY5r"
+1586343114156	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586343115613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586343115613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586343115614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586343115614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586343118418	Marionette	INFO	Listening on port 33733
+1586343118598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 426: SyntaxError: missing { before function body
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui/js/touch-keyboard-navigation.js?ver=1.1, line 278: TypeError: event.target.matches is not a function
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 460: NotFoundError: Node was not found
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+1586343145221	Marionette	INFO	Stopped listening on port 33733
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586343173652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofilej4v7ZI"
+1586343174317	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586343175559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586343175559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586343175559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586343175559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586343178747	Marionette	INFO	Listening on port 33807
+1586343178956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 426: SyntaxError: missing { before function body
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui/js/touch-keyboard-navigation.js?ver=1.1, line 278: TypeError: event.target.matches is not a function
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui/js/touch-keyboard-navigation.js?ver=1.1, line 278: TypeError: event.target.matches is not a function
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+1586343193668	Marionette	INFO	Stopped listening on port 33807
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586343357025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dishant Jariwala\\AppData\\Local\\Temp\\rust_mozprofileKW5Fa5"
+1586343357613	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586343358846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586343358846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586343358846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586343358846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586343361710	Marionette	INFO	Listening on port 33868
+1586343361849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 426: SyntaxError: missing { before function body
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/wp-content/themes/jqueryui/js/touch-keyboard-navigation.js?ver=1.1, line 278: TypeError: event.target.matches is not a function
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+JavaScript error: https://demoqa.com/automation-practice-switch-windows-2/, line 424: TypeError: document.getElementById(...) is null
+1586343374953	Marionette	INFO	Stopped listening on port 33868
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
